@@ -2,6 +2,16 @@
 
 按用途整理的开源项目与设计技能。每个 Fork 保留原项目来源、作者和许可证；仓库收录与实际安装、运行验证分别管理。
 
+## AI 接手入口
+
+管理本账号仓库前，先读 [AGENTS.md：仓库管理规则](https://github.com/yunhangfang-max/yunhangfang-max/blob/main/AGENTS.md)，再核实本次账号、仓库和授权范围。
+
+换用 Codex、Dot 或其他 AI 时，可以直接发送：
+
+> 请先读取 https://github.com/yunhangfang-max/yunhangfang-max 中的 README.md 和 AGENTS.md，核实绑定账号与仓库现状，再按其中规则完成我本次要求的仓库管理；完成后更新导航并读回验证。
+
+`AGENTS.md` 的自动读取范围取决于工具和当前工作目录；在其他仓库或仅通过浏览器访问时，请明确给出上面的入口。
+
 ## 设计 Skill
 
 | 仓库 | 适合做什么 | 技能入口 | 上游 |
@@ -33,10 +43,8 @@ Huashu Design 依赖仓库里的 `references/`、`assets/`、`scripts/`、`demos
 
 ## 分类与维护
 
-- `design-skills`：设计技能；`ai-tools`：AI 工具；`quant-research`：量化研究；`trading-framework`：交易框架。
-- 一个仓库可以有多个用途标签；本导航按主要用途归位。
-- Fork 保持原名称和上游关系，更新时使用 GitHub 的 **Sync fork** 并先检查差异；有本地修改时先处理合并，不强制覆盖。
-- 软件功能、数据权限与实际效果，以对应版本的配置和验证结果为准；本导航只说明用途和入口。
+- 分类标准、收录流程、Fork 更新及验收要求统一见 [AGENTS.md](https://github.com/yunhangfang-max/yunhangfang-max/blob/main/AGENTS.md)。
+- 这里只维护项目清单和用途入口，避免多份管理规则产生冲突。
 
 ## 设计技能署名与许可
 
