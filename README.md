@@ -34,6 +34,7 @@ Huashu Design 依赖仓库里的 `references/`、`assets/`、`scripts/`、`demos
 | 仓库 | 用途 | 上游 |
 |---|---|---|
 | [tick-stock-panel](https://github.com/yunhangfang-max/tick-stock-panel) | 自托管 A 股策略研究、监控、回测和数据源扩展工作台 | [shy3130/tick-stock-panel](https://github.com/shy3130/tick-stock-panel) |
+| [CZSC](https://github.com/yunhangfang-max/czsc) | 缠论分型、笔、中枢、多周期信号与策略研究工具；Rust 核心、Python 接口 | [waditu/czsc](https://github.com/waditu/czsc) |
 
 ## 交易框架
 
